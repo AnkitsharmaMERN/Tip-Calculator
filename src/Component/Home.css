@@ -1,0 +1,85 @@
+.mainContainer {
+    margin: auto;
+    /* border: 1px solid black; */
+    width: 70%;
+}
+
+.heading {
+    text-align: center;
+    background-color: rgb(75, 75, 243);
+    color: white;
+}
+
+.input {
+    text-align: center;
+}
+
+.inputtag {
+    width: 85%;
+    margin-bottom: 40px;
+}
+
+.selectservice {
+    border: 1px solid black;
+    width: 15%;
+    margin: 20px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.customerlist {
+    position: relative;
+
+}
+
+.btn1 {
+    border: none;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(0, 102, 255);
+}
+
+.output {
+    text-align: center;
+}
+
+.output h3 {
+    margin: 5px;
+    text-align: center;
+}
+.btn{
+margin: 41%;
+}
+.btn2 {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(31, 116, 31);
+
+}
+.totalcustomeroutput{
+    text-align: center;
+}
+.table,th,td {
+    padding: 0 100px;
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.footer {
+    position: absolute;
+    width: 70%;
+    height: 25px;
+    background-color: black;
+    color: white;
+}
+
+.footer h4 {
+    text-align: center;
+    position: relative;
+    margin-top: 0px;
+}
